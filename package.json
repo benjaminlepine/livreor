@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "livreor",
   "main": "server.js",
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/benjaminlepine/livreor"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjaminlepine/livreor"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
